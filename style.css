@@ -1,25 +1,25 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 
 body {
+
     height: 100vh;
     display: flex;
+    justify-content: center;
     align-items: center;
-    background: linear-gradient(to top left, #6f7070, #8fe482);
+    background-color: #0a0b0d;
   }
 
   h1 {
     font-family: sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     line-height: 1.5;
     width: 100%;
     padding: 30px;
     text-align: center;
-    color: white;
+    color: cyan;
   }
-  .buy, .poll {
+  .buy,
+   .poll {
     font-size: 1.6rem;
     padding: 1rem 2rem;
     position: absolute;
