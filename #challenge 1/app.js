@@ -1,6 +1,3 @@
-'use strict';
-
-
 const poll =
 {
     question: 'What is your favourite programming language?',
